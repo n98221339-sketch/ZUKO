@@ -1,0 +1,20 @@
+# ══════════════════════════════════════════════
+#  .gitignore — Các file KHÔNG đăng lên GitHub
+# ══════════════════════════════════════════════
+
+# 🔐 QUAN TRỌNG — Chứa token bí mật, KHÔNG BAO GIỜ commit
+.env
+
+# Backup files chứa thông tin server (tuỳ chọn)
+backup_*.json
+
+# Dependencies — quá nặng, không cần thiết
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db

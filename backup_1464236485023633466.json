@@ -1,0 +1,877 @@
+{
+  "guildName": "🩵🐳 NhữgChúCáBell🐬💦",
+  "guildId": "1464236485023633466",
+  "savedAt": "2026-03-01T14:21:37.913Z",
+  "cats": [
+    {
+      "id": "1472067061038715054",
+      "name": "Luật + Thông Báo",
+      "position": 0
+    },
+    {
+      "id": "1464280858784432231",
+      "name": "𝔀𝓮𝓵𝓬𝓸𝓶| 𝓰𝓸𝓸𝓭𝓫𝔂𝓮",
+      "position": 1
+    },
+    {
+      "id": "1472063224835866725",
+      "name": "Chat Chung",
+      "position": 2
+    },
+    {
+      "id": "1465279214969159887",
+      "name": "🎮-•-ᴍɪɴɪ-ɢᴀᴍᴇ Cờ Bạc Spam🤡",
+      "position": 3
+    },
+    {
+      "id": "1464236491474731120",
+      "name": "𝓿𝓸𝓲𝓬𝓮 Chat",
+      "position": 4
+    }
+  ],
+  "channels": [
+    {
+      "id": "1464236491474731121",
+      "name": "ㅅchatxaml-omg✨✨",
+      "type": 0,
+      "parentId": "1472063224835866725",
+      "position": 0,
+      "topic": "~~**~~",
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1465278508011094160",
+      "name": "🎮-•-ᴍɪɴɪ-ɢᴀᴍᴇ-ɴốɪ-ᴛừ",
+      "type": 0,
+      "parentId": "1465279214969159887",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 15
+    },
+    {
+      "id": "1468177356484120810",
+      "name": "TREO-AFK",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464266780749860884",
+      "name": "ㅅ𝔀𝓮𝓵𝓬𝓸𝓶-🐱🥀💔",
+      "type": 0,
+      "parentId": "1464280858784432231",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464248996213293126",
+      "name": "𝓻𝓾𝓵𝓮𝓼-luật📜",
+      "type": 0,
+      "parentId": "1472067061038715054",
+      "position": 0,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1465279597036961928",
+      "name": "🎮-•-ᴍɪɴɪ-ɢᴀᴍᴇ-ᴠᴜᴀ-ᴛɪếɴɢ-ᴠɪệᴛ",
+      "type": 0,
+      "parentId": "1465279214969159887",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1472068830900518912",
+      "name": "thông-báo-sever-📣",
+      "type": 5,
+      "parentId": "1472067061038715054",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464266812681228298",
+      "name": "ㅅ𝓰𝓸𝓸𝓭𝓫𝔂𝓮👋💞",
+      "type": 0,
+      "parentId": "1464280858784432231",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1465237532424929447",
+      "name": "🎼 -•-   ᴛạᴏ ᴠᴏɪᴄᴇ 💤",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1475882740325814302",
+      "name": "❕cây❣️hài❣️cuối❣️tuần😭🙏",
+      "type": 0,
+      "parentId": "1472063224835866725",
+      "position": 1,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464248996213293129",
+      "name": "ㅅ𝓸𝔀𝓷𝓮𝓻-𝓬𝓱𝓪𝓽",
+      "type": 0,
+      "parentId": "1472067061038715054",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464267509078167562",
+      "name": "ㅅ𝓶𝓮𝓶𝓮🐸🤡",
+      "type": 0,
+      "parentId": "1472063224835866725",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1465965071770320998",
+      "name": "💬-•-ѕᴘᴀᴍ",
+      "type": 0,
+      "parentId": "1464280858784432231",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464268381149593600",
+      "name": "𝓬𝓸𝓵𝓵𝓪𝓫",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 52253,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1476543380585709618",
+      "name": "🎮-•-ᴍɪɴɪ-ɢᴀᴍᴇ-ᴄâᴜ-ᴄá",
+      "type": 0,
+      "parentId": "1465279214969159887",
+      "position": 2,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1472134845424468130",
+      "name": "🔴𝑳𝒊𝒗𝒆-1",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464277569103990834",
+      "name": "ㅅ-𝓮𝓿𝓮𝓷𝓽🎃🎊",
+      "type": 5,
+      "parentId": "1472067061038715054",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1465241822841405543",
+      "name": "📈-•-ʟᴇᴠᴇʟ-ᴜᴘ",
+      "type": 0,
+      "parentId": "1464280858784432231",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1473524673835962511",
+      "name": "🎮-•-ᴄʏʙᴇʀ-ɢᴀᴍᴇ-ᴡᴇʙ",
+      "type": 0,
+      "parentId": "1465279214969159887",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464267359874449571",
+      "name": "ㅅvẽ-𝓪𝓻𝓽🎨🖌️",
+      "type": 0,
+      "parentId": "1472063224835866725",
+      "position": 3,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1472065510920294534",
+      "name": "🔴𝑳𝒊𝒗𝒆-2",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1464272982909256037",
+      "name": "ㅅ𝓢𝓽𝓻𝓮𝓪𝓶-𝓪𝓷𝓭-𝓿𝓲𝓭𝓮𝓸-🎮",
+      "type": 5,
+      "parentId": "1472067061038715054",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1476587061489307668",
+      "name": "🎮-•-ᴍɪɴɪ-ɢᴀᴍᴇ-ʙầᴜ-ᴄᴜᴀ",
+      "type": 0,
+      "parentId": "1465279214969159887",
+      "position": 4,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1475512067829141698",
+      "name": "chỉ-dành-cho-điều-phối-viên",
+      "type": 0,
+      "parentId": "1472067061038715054",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1476587652273672363",
+      "name": "🎮-•-ɴốɪ-ᴛừ-ᴛɪếɴɢ-ᴀɴʜ",
+      "type": 0,
+      "parentId": "1465279214969159887",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 15
+    },
+    {
+      "id": "1477563993970311230",
+      "name": "ɴɢʜᴇ ɴʜạᴄ 2",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 5,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1477564058646479041",
+      "name": "ɴɢʜᴇ ɴʜạᴄ 3",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 6,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1477559692430675978",
+      "name": "хᴇᴍ ᴀɴɪᴍᴇ (ᴄᴏɴᴀɴ)",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 7,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1477535445314437161",
+      "name": "CelestialPenguin🐧👑's Channel",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 8,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": 19,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1477654651020247224",
+      "name": "❣️ M e r a  ❤️‍🩹 🌙's Channel",
+      "type": 2,
+      "parentId": "1464236491474731120",
+      "position": 9,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    },
+    {
+      "id": "1473528535825121290",
+      "name": "Lọ",
+      "type": 11,
+      "parentId": "1473524673835962511",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 0
+    }
+  ],
+  "roles": [
+    {
+      "id": "1464277063929299035",
+      "name": "vai trò mới",
+      "color": 0,
+      "hexColor": "#000000",
+      "permissions": "0",
+      "position": 22,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475505036338401404",
+      "name": "Roblox",
+      "color": 16736768,
+      "hexColor": "#ff6200",
+      "permissions": "0",
+      "position": 24,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475504934660210720",
+      "name": "Playtogether",
+      "color": 15277667,
+      "hexColor": "#e91e63",
+      "permissions": "0",
+      "position": 25,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475504759271063703",
+      "name": "Liên Quân",
+      "color": 7423,
+      "hexColor": "#001cff",
+      "permissions": "0",
+      "position": 26,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1476256574342299789",
+      "name": "lazy~~",
+      "color": 5014614,
+      "hexColor": "#4c8456",
+      "permissions": "0",
+      "position": 27,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1476537182469619868",
+      "name": "Vua Tệ Nạn🥰?",
+      "color": 3895489,
+      "hexColor": "#3b70c1",
+      "permissions": "0",
+      "position": 28,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1477259000264261632",
+      "name": "Tệ Nạn Lv Max 👏🤡",
+      "color": 16711680,
+      "hexColor": "#ff0000",
+      "permissions": "0",
+      "position": 29,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1477283638537228369",
+      "name": "Ế Vạn Năm🥰🙏",
+      "color": 266,
+      "hexColor": "#00010a",
+      "permissions": "0",
+      "position": 30,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1477283472165830878",
+      "name": "Couple💞🫶",
+      "color": 15277667,
+      "hexColor": "#e91e63",
+      "permissions": "0",
+      "position": 31,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1477284705786265620",
+      "name": "Chị Mày Ế Vì Chảnh🥴👉👈💞",
+      "color": 23529,
+      "hexColor": "#005be9",
+      "permissions": "0",
+      "position": 32,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1477285105058975746",
+      "name": "Chậu Có Hoa🌷💞",
+      "color": 15607201,
+      "hexColor": "#ee25a1",
+      "permissions": "0",
+      "position": 33,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475748980842430484",
+      "name": "Hay Cọc",
+      "color": 16711778,
+      "hexColor": "#ff0062",
+      "permissions": "0",
+      "position": 34,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475748727087042642",
+      "name": "Không Thích Joke❌",
+      "color": 16711680,
+      "hexColor": "#ff0000",
+      "permissions": "0",
+      "position": 35,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475748797396156416",
+      "name": "Joke🤡",
+      "color": 64325,
+      "hexColor": "#00fb45",
+      "permissions": "0",
+      "position": 36,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1465287694233112668",
+      "name": "đã хáᴄ ᴍɪɴʜ✔",
+      "color": 3066993,
+      "hexColor": "#2ecc71",
+      "permissions": "0",
+      "position": 37,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1464276982245363887",
+      "name": "Cá Con 🐳 🩵",
+      "color": 35583,
+      "hexColor": "#008aff",
+      "permissions": "377957122048",
+      "position": 38,
+      "hoist": true,
+      "mentionable": false
+    },
+    {
+      "id": "1465240803801829652",
+      "name": "Cá Nhỏ🐟",
+      "color": 2727917,
+      "hexColor": "#299fed",
+      "permissions": "0",
+      "position": 39,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1464279986298032342",
+      "name": "Cá Bell🐬🩵",
+      "color": 66047,
+      "hexColor": "#0101ff",
+      "permissions": "0",
+      "position": 40,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1465240180712804403",
+      "name": "Cá Xiu Bell🐳🩵",
+      "color": 39423,
+      "hexColor": "#0099ff",
+      "permissions": "0",
+      "position": 41,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1465240542701944985",
+      "name": "Cá Chuppi🐳🐬🩵",
+      "color": 2228479,
+      "hexColor": "#2200ff",
+      "permissions": "0",
+      "position": 42,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475459800660840510",
+      "name": "Nghèo Nhất Sever😭🙏",
+      "color": 16758016,
+      "hexColor": "#ffb500",
+      "permissions": "0",
+      "position": 43,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475373614554677462",
+      "name": "6trai nhất sever🤡🙏",
+      "color": 3342591,
+      "hexColor": "#3300ff",
+      "permissions": "0",
+      "position": 44,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475373390268207125",
+      "name": "Đẹp gái vcl😏😋",
+      "color": 29695,
+      "hexColor": "#0073ff",
+      "permissions": "0",
+      "position": 45,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475506033446223872",
+      "name": "NGHIỆN🤡🙏",
+      "color": 3066993,
+      "hexColor": "#2ecc71",
+      "permissions": "0",
+      "position": 46,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475459179169710244",
+      "name": "Gãy😏",
+      "color": 7935,
+      "hexColor": "#001eff",
+      "permissions": "0",
+      "position": 47,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475459330131103987",
+      "name": "Bé Liên😋",
+      "color": 7930111,
+      "hexColor": "#7900ff",
+      "permissions": "0",
+      "position": 48,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475459547131940958",
+      "name": "LGBT🏳️‍🌈⚧️",
+      "color": 14228872,
+      "hexColor": "#d91d88",
+      "permissions": "0",
+      "position": 49,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475759975837073533",
+      "name": "-Boy💙",
+      "color": 21503,
+      "hexColor": "#0053ff",
+      "permissions": "0",
+      "position": 50,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475759920094777344",
+      "name": "-Giri🩷",
+      "color": 16711907,
+      "hexColor": "#ff00e3",
+      "permissions": "0",
+      "position": 51,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475804969310486620",
+      "name": "• Kẻ tồy💔",
+      "color": 11993134,
+      "hexColor": "#b7002e",
+      "permissions": "0",
+      "position": 52,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1477288617163493488",
+      "name": "Kẻ Luỵ Tình💔🥀",
+      "color": 12717325,
+      "hexColor": "#c20d0d",
+      "permissions": "0",
+      "position": 53,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1477259417408897076",
+      "name": "Kể Si Tình💞",
+      "color": 16725429,
+      "hexColor": "#ff35b5",
+      "permissions": "0",
+      "position": 54,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475804770387234897",
+      "name": "•Người Tình Trong Mơ💤",
+      "color": 7063039,
+      "hexColor": "#6bc5ff",
+      "permissions": "0",
+      "position": 55,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475805265684205690",
+      "name": "Vô tri✨",
+      "color": 16775424,
+      "hexColor": "#fff900",
+      "permissions": "0",
+      "position": 56,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475460085676245073",
+      "name": "Bảnh nhất sever😎🤙",
+      "color": 14245652,
+      "hexColor": "#d95f14",
+      "permissions": "0",
+      "position": 57,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475806253010653327",
+      "name": "- ĐẹpTrai-ĐẹpGái🙈✨",
+      "color": 11862271,
+      "hexColor": "#b500ff",
+      "permissions": "0",
+      "position": 58,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475504081920327700",
+      "name": "Báo Nên Tránh Xa🐆",
+      "color": 11993343,
+      "hexColor": "#b700ff",
+      "permissions": "0",
+      "position": 59,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475460703878905907",
+      "name": "Tối Thượng👑",
+      "color": 16767232,
+      "hexColor": "#ffd900",
+      "permissions": "347597104775745",
+      "position": 60,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1464271069845131284",
+      "name": "𝓫𝓸𝓽",
+      "color": 3447003,
+      "hexColor": "#3498db",
+      "permissions": "1721807828152263",
+      "position": 62,
+      "hoist": true,
+      "mentionable": false
+    },
+    {
+      "id": "1464280192724762828",
+      "name": "ART🎨",
+      "color": 11342935,
+      "hexColor": "#ad1457",
+      "permissions": "0",
+      "position": 63,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1468171302597693470",
+      "name": "Kiểm Duyệt Viên-Giám Sát Viên✅",
+      "color": 2510046,
+      "hexColor": "#264cde",
+      "permissions": "10034587500550",
+      "position": 64,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1475758598763188244",
+      "name": "🔴-Stremer",
+      "color": 14811136,
+      "hexColor": "#e20000",
+      "permissions": "321057461371648",
+      "position": 65,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1464276006335414427",
+      "name": "𝓽𝓲𝓴𝓽𝓸𝓴𝓮𝓻 🎥",
+      "color": 16761617,
+      "hexColor": "#ffc311",
+      "permissions": "256",
+      "position": 66,
+      "hoist": true,
+      "mentionable": false
+    },
+    {
+      "id": "1467059234100482128",
+      "name": "❗Cảnh Báo 2",
+      "color": 16384000,
+      "hexColor": "#fa0000",
+      "permissions": "0",
+      "position": 67,
+      "hoist": true,
+      "mentionable": false
+    },
+    {
+      "id": "1467059006005575750",
+      "name": "⚠️Cảnh Báo 1",
+      "color": 13931535,
+      "hexColor": "#d4940f",
+      "permissions": "0",
+      "position": 68,
+      "hoist": true,
+      "mentionable": false
+    },
+    {
+      "id": "1464270225540386816",
+      "name": "𝓫𝓾𝓲𝓵𝓭𝓮𝓻𝓼 𝓭𝓲𝓼𝓬𝓸𝓻𝓭 🛠",
+      "color": 16711767,
+      "hexColor": "#ff0057",
+      "permissions": "7399148400671999",
+      "position": 69,
+      "hoist": true,
+      "mentionable": false
+    },
+    {
+      "id": "1465009119374086256",
+      "name": "𝓸𝔀𝓷𝓮𝓻✅",
+      "color": 16711680,
+      "hexColor": "#ff0000",
+      "permissions": "2814758373957710",
+      "position": 70,
+      "hoist": true,
+      "mentionable": true
+    }
+  ]
+}
