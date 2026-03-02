@@ -1216,6 +1216,12 @@ client.on("interactionCreate",async interaction=>{
 // ─── GLOBAL ERRORS ────────────────────────────────────────────────────────────
 process.on("unhandledRejection",err=>{ if(err?.code===10062)return; console.error("Unhandled:",err?.message||err); });
 process.on("uncaughtException",err=>{ console.error("Uncaught:",err?.message||err); });
+// Giữ Railway không sleep
+const http = require("http");
 
+http.createServer((req, res) => {
+  res.writeHead(200);
+  res.end("Bot is running!");
+}).listen(process.env.PORT || 3000);
 // ─── LOGIN ────────────────────────────────────────────────────────────────────
 client.login(TOKEN);
